@@ -131,7 +131,7 @@ const Hero = () => {
             >
               <div className="w-full aspect-square bg-gradient-to-br from-primary/20 to-pastel-purple/30 rounded-[3rem] shadow-hover flex items-center justify-center overflow-hidden">
                 {/* Placeholder for profile image */}
-                <div className="text-9xl">👨</div>
+                <div className="text-9xl"><img src="/resume pic.jpg" alt="" /></div>
               </div>
               {/* Floating decorations */}
               <motion.div
